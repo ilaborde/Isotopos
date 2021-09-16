@@ -3,3 +3,12 @@
     width: 180px;
     height: 180px;
 }
+
+.author-bg {
+    background-color: #669f67;
+    background-image: linear-gradient(135deg, #669f67 0%, #275d27 100%);
+}
+
+.no-margin{
+    margin-bottom: 0;
+}
